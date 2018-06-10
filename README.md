@@ -1,4 +1,4 @@
 # Hello-World
 
-# hello humans
-# this is my First Edit in Github
+ hello humans
+ this is my First Edit in Github
